@@ -30,3 +30,24 @@ This project analyzes customer churn data using Python to identify the factors t
 
 ## Conclusion
 The analysis highlights customer segments at higher risk of churn and provides actionable recommendations to improve customer retention.
+
+
+## Key Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Contract Type vs Churn
+![Contract Type](images/contract_type_churn.png)
+
+### Tenure Distribution
+![Tenure Distribution](images/tenure_distribution.png)
+
+### Payment Method Analysis
+![Payment Method](images/payment_method_churn.png)
+
+### Internet Service Analysis
+![Internet Service](images/internet_service_churn.png)
+
+### Senior Citizen Churn Analysis
+![Senior Citizen Churn Analysis](images/senior_citizen_churn.png)
