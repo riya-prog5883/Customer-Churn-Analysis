@@ -38,16 +38,16 @@ The analysis highlights customer segments at higher risk of churn and provides a
 ![Churn Distribution](images/churn_distribution.png)
 
 ### Contract Type vs Churn
-![Contract Type](images/contract_type_churn.png)
+![Contract Type Analysis](images/contract_analysis.png)
 
 ### Tenure Distribution
 ![Tenure Distribution](images/tenure_distribution.png)
 
 ### Payment Method Analysis
-![Payment Method](images/payment_method_churn.png)
+![Payment Method Analysis](images/payment_method.png)
 
 ### Internet Service Analysis
-![Internet Service](images/internet_service_churn.png)
+![Internet Service](images/internet_service.png)
 
 ### Senior Citizen Churn Analysis
 ![Senior Citizen Churn Analysis](images/senior_citizen_churn.png)
